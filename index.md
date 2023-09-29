@@ -1,1 +1,2 @@
-# this text will shw in h1 tag
+# image of CAT
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
